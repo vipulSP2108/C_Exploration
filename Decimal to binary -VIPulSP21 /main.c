@@ -19,6 +19,7 @@ int main(){
   }
   // printf("%d",*ptr);
   int r =  *ptr;
+  printf("Binary for your Decimal number is");
   for (int j = r-1; j>=0; j=j-1){
     printf("%d",binary[j]);
   }
