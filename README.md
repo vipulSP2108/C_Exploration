@@ -22,6 +22,6 @@ It also includes solutions made by me.
 
 `Solutions`
 
-This repository also includes solutions to these assignments in the main.py file. 
+This repository also includes solutions to these assignments in the main.c file. 
 
 ### Have fun coding!
