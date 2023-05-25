@@ -13,7 +13,7 @@ int main(){
   for(int i=0; i<len; i += 1){
     scanf("%d",&binary[i]);
   }
-  printf("%d",BinarytoDecimal(binary,len));
+  printf("Decimal for your Binary number is %d",BinarytoDecimal(binary,len));
 }
 
 int BinarytoDecimal(int binary[],int len){
