@@ -20,4 +20,4 @@ Input
 
 Output
 
->mano sundaram
+>manosundaram
