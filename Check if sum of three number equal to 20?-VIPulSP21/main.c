@@ -13,5 +13,5 @@ int main(){
 }
 
 void Checksum30(int num1, int num2, int num3){
-  num1+num2+num3 == 30 ? printf("YES") : printf("NO");
+  num1+num2+num3 == 20 ? printf("YES") : printf("NO");
 }
